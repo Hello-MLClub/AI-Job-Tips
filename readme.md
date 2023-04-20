@@ -61,6 +61,8 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 
 ### 5.3 数据结构与算法
 
+- [数据结构与算法通关宝典](https://github.com/Hello-MLClub/Algorithm-LeetCode-Python)
+
 ### 5.4 业务知识&实战项目
 
 #### 5.4.1 计算机视觉
