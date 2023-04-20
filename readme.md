@@ -68,6 +68,8 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 #### 5.4.2 自然语言处理
 
 #### 5.4.3 搜广推
+- [搜广推算法实战](https://github.com/Hello-MLClub/recommend-Algorithm-Practice)
+- [搜广推前沿知识](https://github.com/Hello-MLClub/Algorithm-Practice-Paper)
 
 #### 5.4.4 机器学习
 
