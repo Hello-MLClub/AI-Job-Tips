@@ -61,7 +61,7 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 
 ### 5.1 大数据
 
--[大数据HIVE必备知识点](https://github.com/Hello-MLClub/AI-Job-Tips/blob/main/files/big_data.md)
+- [大数据HIVE必备知识点](https://github.com/Hello-MLClub/AI-Job-Tips/blob/main/files/big_data.md)
 
 ### 5.2 专业知识
 
