@@ -66,8 +66,8 @@ AI 算法岗方向涉及：大模型、多模态、深度学习、机器学习�
 ### 大模型
 
 - [100道大模型面试八股文](https://mp.weixin.qq.com/s/koPpwjY3XnDCWo-ug-4Lxw)
-- [拿到字节大模型算法岗 Offer，我要上岸了！](https://mp.weixin.qq.com/s/0GleY48akzS1TC6Hv0wX8w)
-- [面了上海人工智能实验室的大模型算法岗，被狠狠拷打。。。](https://mp.weixin.qq.com/s/n02nAq8oirjmevNzFKkuHA)
+- [字节大模型算法岗面试汇总]](https://mp.weixin.qq.com/s/0GleY48akzS1TC6Hv0wX8w)
+- [上海人工智能实验室大模型算法岗面试汇总]](https://mp.weixin.qq.com/s/n02nAq8oirjmevNzFKkuHA)
 - [阿里大模型算法岗面试汇总]()
 - [百度大模型算法岗面试汇总]()
 -  [腾讯大模型算法岗面试汇总]()
@@ -76,12 +76,13 @@ AI 算法岗方向涉及：大模型、多模态、深度学习、机器学习�
 -  [网易大模型算法岗面试汇总]()
 -  [搜狐大模型算法岗面试汇总]()
 -  [小红书大模型算法岗面试汇总]()
+-  [京东大模型算法面试汇总]()
 
 ### 多模态
 
 - [字节智创多模态算法岗面经](https://mp.weixin.qq.com/s/D1T9qTI6p4S84Ah_BqCkGw)
-- [卷了1个月，成功拿到了蚂蚁算法岗（多模态） Offer ！](https://mp.weixin.qq.com/s/hpPe7ngasmk6x_x2IGMPOw)
-- [小米 AIGC 大模型实习面试题4道(含解析)](https://mp.weixin.qq.com/s/AP4MORvVsVzXTHuTWEbR9A)
+- [蚂蚁多模态算法岗面经](https://mp.weixin.qq.com/s/hpPe7ngasmk6x_x2IGMPOw)
+- [小米 AIGC 大模型算法岗面试汇总](https://mp.weixin.qq.com/s/AP4MORvVsVzXTHuTWEbR9A)
 -  [阿里多模态大模型算法岗面试汇总]()
 -  [腾讯多模态大模型算法岗面试汇总]()
 -  [shopee多模态大模型算法岗面试汇总]()
@@ -93,20 +94,25 @@ AI 算法岗方向涉及：大模型、多模态、深度学习、机器学习�
 ### NLP 算法
 
 - [我总结了 100 道 NLP（含大模型） 高频面试题！](https://mp.weixin.qq.com/s/X8VSJCEYwUfQ2SV0Hd5jEw)
-- [面了科大讯飞 NLP 算法岗，被疯狂拷打。。。](https://mp.weixin.qq.com/s/X9N97VLizJwgow_N0lJQGw)
+- [科大讯飞NLP算法岗面试汇总](https://mp.weixin.qq.com/s/X9N9LizJwgow_N0lJQGw)
 - [小米NLP算法面试汇总]()
-- [平安NLP算法面试汇总]()
+- [平安科技NLP算法面试汇总]()
+- [金山NLP算法面试汇总]()
 - [阿里云NLP算法面试汇总]()
-- [阿里云NLP算法面试汇总]()
+- [百度NLP算法面试汇总]()
+- [小红书NLP算法面试汇总]()
+-  [京东NLP算法面试汇总]()
+-  [得物NLP算法面试汇总]()
 
 ### 搜光推算法
 
-- [太棒了！推荐算法岗（含实习）面试真题最全总结！](https://mp.weixin.qq.com/s/3oYSHxrXSmGEiMtsztPLQ)
+- [太棒了！推荐算法岗（含实习）面试真题最全总结！](https://mp.weixin.qq.m/s/3oYSHxrXSmGEiMtsztPLQ)
 - [美团算法岗面试总结]()
 - [抖音算法岗面试总结]()
 - [快手算法岗面试总结]()
--  [小红书算法岗面试总结]()
--  [微信算法岗面试总结]()
+- [小红书算法岗面试总结]()
+- [微信算法岗面试总结]()
+-  [拼多多算法岗面试总结]()
 
 ### CV 算法
 - [英伟达算法岗面试总结]()
