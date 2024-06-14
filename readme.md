@@ -60,32 +60,37 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 
 ![image](https://user-images.githubusercontent.com/76510785/233408998-f081b0c1-2176-49f7-b220-04e518ce3e86.png)
 
-## :mega: 5、刷题指南（如下为部分内容，全部内容星球可以全部获取）
 
-### 5.1 大数据
+## :mega: 5、大厂真题
+
+
+
+## :mega: 6、刷题指南（如下为部分内容，全部内容星球可以全部获取）
+
+### 6.1 大数据
 
 - [大数据HIVE必备知识点](https://github.com/Hello-MLClub/AI-Job-Tips/blob/main/files/big_data.md)
 
-### 5.2 专业知识
+### 6.2 专业知识
 
-### 5.3 数据结构与算法
+### 6.3 数据结构与算法
 
 - [数据结构与算法通关宝典](https://github.com/Hello-MLClub/Algorithm-LeetCode-Python)
 
-### 5.4 业务知识&实战项目
+### 6.4 业务知识&实战项目
 
-#### 5.4.1 计算机视觉
+#### 6.4.1 计算机视觉
 
-#### 5.4.2 自然语言处理
+#### 6.4.2 自然语言处理
 
-#### 5.4.3 搜广推
+#### 6.4.3 搜广推
 - [搜广推算法实战](https://github.com/Hello-MLClub/recommend-Algorithm-Practice)
 - [搜广推前沿知识](https://github.com/Hello-MLClub/Algorithm-Practice-Paper)
 
-#### 5.4.4 机器学习
+#### 6.4.4 机器学习
 
-#### 5.4.5 金融风控
+#### 6.4.5 金融风控
 
-#### 5.4.6 其他
+#### 6.4.6 其他
 
 
