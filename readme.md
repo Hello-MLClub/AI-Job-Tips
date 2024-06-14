@@ -54,11 +54,11 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 
 加入知识星球的小伙伴，记得加我微信vx: **mlc2060** ，领取资料。加入星球后，可以随时向我 1 对 1 免费提问。帮你解决困惑或提供建议，让你始终知道下一步该做什么，不再迷茫！
 
-![微信图片_20231009214611](https://github.com/Hello-MLClub/AI-Job-Tips/assets/76510785/ddbc7061-8e99-4fb0-8b42-c7b56ad19fa1)
+<img src="https://github.com/Hello-MLClub/AI-Job-Tips/assets/76510785/ddbc7061-8e99-4fb0-8b42-c7b56ad19fa1" alt="Description" width="60%"/>
 
 ## :closed_book: 4、往届AI算法岗薪资情况
 
-![image](https://user-images.githubusercontent.com/76510785/233408998-f081b0c1-2176-49f7-b220-04e518ce3e86.png)
+<img src="https://user-images.githubusercontent.com/76510785/233408998-f081b0c1-2176-49f7-b220-04e518ce3e86.png" alt="Description" width="50%"/>
 
 
 ## :mega: 5、大厂真题
