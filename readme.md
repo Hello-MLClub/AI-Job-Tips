@@ -1,4 +1,4 @@
-![image](https://github.com/Hello-MLClub/AI-Job-Tips/assets/76510785/918c02a6-6605-4f9c-88b8-b0f612c7c265)## AI 算法岗求职攻略
+## AI 算法岗求职攻略
 
 知己知彼，方能百战不殆。在找工作之前，同学们还是有必要了解一下什么是校招，思考该如何准备校招？有哪些事项需要提前做准备和规划？
 
@@ -12,7 +12,8 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 
 ## :star: 1、校招时间表
 
-![image](https://github.com/Hello-MLClub/AI-Job-Tips/assets/76510785/ff038253-8f29-4b9d-87b9-ead0eb5458bf)
+<img src="https://github.com/Hello-MLClub/AI-Job-Tips/assets/76510785/918c02a6-6605-4f9c-88b8-b0f612c7c265" alt="Description" width="50%"/>
+
 
 ## :smiley: 2、准备攻略
 
