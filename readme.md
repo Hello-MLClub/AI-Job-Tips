@@ -65,15 +65,25 @@ AI 算法岗方向涉及：深度学习、机器学习、计算机视觉、自�
 
 ### 大模型
 
+- [100道大模型面试八股文](https://mp.weixin.qq.com/s/koPpwjY3XnDCWo-ug-4Lxw)
+
 ### 多模态
 
 - [字节智创多模态算法岗面经](https://mp.weixin.qq.com/s/D1T9qTI6p4S84Ah_BqCkGw)
+- [卷了1个月，成功拿到了蚂蚁算法岗（多模态） Offer ！](https://mp.weixin.qq.com/s/hpPe7ngasmk6x_x2IGMPOw)
 
 ### NLP 算法
+
+- [我总结了 100 道 NLP（含大模型） 高频面试题！](https://mp.weixin.qq.com/s/X8VSJCEYwUfQ2SV0Hd5jEw)
+- [面了科大讯飞 NLP 算法岗，被疯狂拷打。。。](https://mp.weixin.qq.com/s/X9N97VLizJwgow_N0lJQGw)
 
 ### 搜光推算法
 
 ### CV 算法
+
+### 综合
+
+- [比亚迪算法岗面试，问的贼细！](https://mp.weixin.qq.com/s/RyX5bGjZ9VrUflw6fcq4bg)
 
 
 ## :mega: 6、刷题指南（如下为部分内容，全部内容星球可以全部获取）
